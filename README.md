@@ -1,3 +1,5 @@
+NOTE: I no longer have the data.
+
 This is my code for the AXA Driver Telematics challenge on Kaggle [1]. A high level description of my approach is available on my blog [2].
 
 Code overview:
